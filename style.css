@@ -71,7 +71,7 @@ body {
   line-height: 22px;
   line-height: 2.2rem;
   font-family: "Helvetica", "Arial", sans-serif;
-  color: #fff;
+  color: #eeeeee;
 }
 @media only screen and (min-width:992px) {
   body {
